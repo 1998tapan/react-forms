@@ -1,0 +1,22 @@
+.SignUpForm {
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 1em;
+    background-color: #023047;
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+    background-color: #8ecae6;
+    color: #023047;
+    padding: 0.5em;
+    margin: 0 auto 0.4em;
+}
+
+.inputContainer {
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+}
